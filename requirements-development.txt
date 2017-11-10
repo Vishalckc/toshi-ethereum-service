@@ -1,1 +1,1 @@
--e git+ssh://git@github.com/toshiapp/toshi-services-lib.git#egg=toshi-services
+-e git+https://git@github.com/toshiapp/toshi-services-lib.git#egg=toshi-services
